@@ -28,7 +28,7 @@ export async function registerUseCase({
     data: {
       name,
       email,
-      password_hash
+      password_hash,
     }
   })
 }
